@@ -1,0 +1,1 @@
+pyuic5.exe -x design.ui -o design.py
